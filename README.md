@@ -3,8 +3,8 @@
 
 :man_student: **About me**
 - MBA: Concentration in Business Analytics
-- I'm continouesly learning Data Analytics/Data Sciences skills
 - I’m curently working as a data analyst
+- I'm continouesly learning Data Analytics/Data Sciences skills
 - I'm new to Github and still working on adding more projects in here!
 
 :bar_chart: **Data Projects**
