@@ -11,4 +11,4 @@
 :bar_chart: **Personal Data Projects**
 - **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 - **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)
-- **Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
+- **SQL + Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
