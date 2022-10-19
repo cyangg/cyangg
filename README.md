@@ -5,7 +5,6 @@
 - MBA: Concentration in Business Analytics
 - I’m curently working as a data analyst
 - I'm continouesly learning Data Analytics/Data Sciences skills
-- I'm currently on my way obtaining the Google Data Analytics Certification 
 - I'm new to Github and still working on adding more projects in here!
 
 :bar_chart: **Personal Data Projects**
