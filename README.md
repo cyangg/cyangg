@@ -14,3 +14,4 @@
 
 👨‍💻 **Certification**
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/c153ca5b-1060-494f-8d5a-130edd3b4688/linked_in_profile)
+- [SAS Certified Specialist](https://www.credly.com/badges/c49f3e5d-679e-46bc-9ac5-64497cb94085)
