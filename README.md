@@ -12,7 +12,7 @@
 - **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)
 - **SQL + Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
 
-🏆: **Virtual Internship**
+🏆: **Virtual Internships**
 - **Tableau:** [Tata Data Visualisation: Empower Business with Effective Insights]
 
 👨‍💻 **Certification**
