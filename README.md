@@ -7,12 +7,12 @@
 - I am continouesly learning Data Analytics & Data Sciences skills
 - I am new to Github and still working on adding more projects in here!
 
-🏆: **Personal Data Projects**
+🏆 *Personal Data Projects*
 - **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 - **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)
 - **SQL + Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
 
-📉: **Data Visualization**
+📉 **Data Visualization**
 - **Tableau:** [Tata Data Visualisation: Empower Business with Effective Insights](https://github.com/cyangg/Tata-Data-Visualisation-Empower-Business-with-Effective-Insights)
 - **Tableau:** [Canada Health Sciences Dashboard](https://github.com/cyangg/Tata-Data-Visualisation-Empower-Business-with-Effective-Insights)
 
