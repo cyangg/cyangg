@@ -4,7 +4,7 @@
 :man_student: **About me**
 - MBA: Concentration in Business Analytics
 - I am curently working as a data analyst
-- I am continouesly learning Data Analytics/Data Sciences skills
+- I am continouesly learning Data Analytics & Data Sciences skills
 - I am new to Github and still working on adding more projects in here!
 
 🏆: **Personal Data Projects**
