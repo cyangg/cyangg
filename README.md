@@ -14,7 +14,7 @@
 
 📉 **Data Visualization**
 - **Tableau:** [Tata Data Visualisation: Empower Business with Effective Insights](https://github.com/cyangg/Tata-Data-Visualisation-Empower-Business-with-Effective-Insights)
-- **Tableau:** [Canada Health Sciences Dashboard](https://github.com/cyangg/Tata-Data-Visualisation-Empower-Business-with-Effective-Insights)
+- **Tableau:** [Canada Health Sciences Dashboard](https://github.com/cyangg/Canada-Health-Sciences-Dashboard)
 
 👨‍💻 **Certification**
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/c153ca5b-1060-494f-8d5a-130edd3b4688/linked_in_profile)
