@@ -6,7 +6,7 @@
 - I am curently working as a data analyst
 - I am continouesly learning Data Analytics & Data Engieering skills
 
-:monocle_face: ** Data Engineering Projects**
+:monocle_face: **Data Engineering Projects**
 - **Bixi:** [Bixi Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 
 🏆 **Personal Data Analysis Projects**
