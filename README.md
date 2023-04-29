@@ -9,7 +9,7 @@
 :monocle_face: **Data Engineering Projects**
 - **Bixi:** [Bixi Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 
-🏆 **Personal Data Analysis Projects**
+🏆 **Data Analysis Projects**
 - **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 - **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)
 - **SQL + Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
