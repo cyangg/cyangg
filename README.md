@@ -7,7 +7,7 @@
 - I am continouesly learning Data Analytics & Data Engieering skills
 
 :monocle_face: **Data Engineering Projects**
-- **Bixi:** [Bixi Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
+- **Bixi:** [Bixi Analysis](https://github.com/cyangg/Bixi)
 
 🏆 **Data Analysis Projects**
 - **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
