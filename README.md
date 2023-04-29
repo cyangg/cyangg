@@ -1,11 +1,5 @@
 # Henry
 
-
-:man_student: **About me**
-- MBA: Concentration in Business Analytics
-- I am looking for data analyst & data engineering jobs
-- I am continouesly learning Data Analytics & Data Engieering skills
-
 :monocle_face: **Data Engineering Projects**
 - **Bixi:** [Bixi Analysis](https://github.com/cyangg/Bixi)
 
