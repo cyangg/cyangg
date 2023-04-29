@@ -4,10 +4,12 @@
 :man_student: **About me**
 - MBA: Concentration in Business Analytics
 - I am curently working as a data analyst
-- I am continouesly learning Data Analytics & Data Sciences skills
-- I am new to Github and still working on adding more projects in here!
+- I am continouesly learning Data Analytics & Data Engieering skills
 
-🏆 **Personal Data Projects**
+:monocle_face: ** Data Engineering Projects**
+- **Bixi:** [Bixi Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
+
+🏆 **Personal Data Analysis Projects**
 - **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 - **SQL:** [8 Week SQL Challenge](https://github.com/cyangg/cyangg-8-Week-SQL-Challenge)
 - **SQL + Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
