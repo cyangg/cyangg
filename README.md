@@ -9,6 +9,7 @@
 - **SQL + Python:** [Employee Churn Predition](https://github.com/cyangg/Employee-Churn-Prediction)
 
 📉 **Data Visualization**
+- **Tableau:** [Sales Conversion Analysis](https://public.tableau.com/app/profile/henry.yang7195/viz/SalesConversionAnalysis_16788213020070/AssessmentandRecommendationonProducts)
 - **Tableau:** [Canada Health Sciences Dashboard](https://github.com/cyangg/Canada-Health-Sciences-Dashboard)
 - **Tableau:** [Tata Data Visualisation: Empower Business with Effective Insights](https://github.com/cyangg/Tata-Data-Visualisation-Empower-Business-with-Effective-Insights)
 
